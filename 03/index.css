@@ -5,11 +5,17 @@
 
 .container {
   background-color: #23424a;
-  padding: 10em 5em;
+}
+
+.wrapper {
+  width: 80%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 5em 0;
 }
 
 .content {
-  width: 50%;
+  width: 60%;
 }
 
 h1 {
